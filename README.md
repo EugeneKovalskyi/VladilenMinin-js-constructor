@@ -1,1 +1,1 @@
-Lesson: https://github.com/vladilenm
+Lesson developer: https://github.com/vladilenm
